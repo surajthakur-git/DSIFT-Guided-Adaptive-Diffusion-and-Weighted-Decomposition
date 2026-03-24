@@ -108,13 +108,6 @@ The algorithm produces:
 
 ---
 
-## 🧪 Applications
-
-* Satellite Image Fusion (PAN + MS)
-* Medical Image Fusion (MRI + CT)
-* Multi-focus Image Fusion
-
----
 
 ## 📌 Notes
 
