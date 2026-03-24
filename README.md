@@ -12,8 +12,7 @@ This repository presents an advanced image fusion framework based on **Anisotrop
 Image fusion plays a crucial role in applications like:
 
 * Remote sensing
-* Medical imaging
-* Computer vision
+*Pansharpening
 
 This project focuses on enhancing fusion quality using **anisotropic diffusion + PCA**, improving:
 
@@ -84,7 +83,6 @@ The proposed method includes:
 
 ✅ Edge-preserving fusion
 ✅ Improved structural similarity
-✅ Noise reduction
 ✅ High-quality fused output
 
 ---
